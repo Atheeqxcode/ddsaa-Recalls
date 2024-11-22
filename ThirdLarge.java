@@ -1,4 +1,4 @@
-import java.util.Arrays;//confusion
+import java.util.Arrays;//confused
 import java.util.HashSet;
 
 public class ThirdLarge {
