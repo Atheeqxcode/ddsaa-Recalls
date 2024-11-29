@@ -1,6 +1,6 @@
 public class Anagram {
     public static void main(String[] args) {
-        System.out.print(Anu("Atheeq","qeehta"));
+        System.out.print(Anu("Atheeqq","qqeehta"));
         
     }
 
